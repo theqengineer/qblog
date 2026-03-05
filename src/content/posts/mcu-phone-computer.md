@@ -10,5 +10,5 @@ lang: ''
 ---
 
 how to reduce the use of mobile data traffic
-- use a local keyboard input
-- use a special streaming strategy
+- use a local keyboard input, collect all input and send once.
+- use a special streaming strategy. [reliable]
